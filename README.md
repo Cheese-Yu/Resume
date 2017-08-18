@@ -38,7 +38,7 @@
 
 # 个人作品
 
-#### [百姓筹](https://www.baixingchou.com)
+#### [百姓筹](http://www.baixingchou.com)
 > 项目收获
   + 未使用框架对 移动端web 和pc端 进行开发和重构，不同型号手机进行适配
   + 由于css兼容性问题，学习使用 gulp 工具，总结出了目前自己的工程化工作流
