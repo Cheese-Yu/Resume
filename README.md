@@ -24,8 +24,8 @@
 * 熟练使用 Gulp , Webpack 等代码构建工具
 * 熟练使用 git , svn 管理代码
 #### 其他
-* 了解node、express
-* 了解MongoDB
+* 了解node、egg.js, 有完整前后端项目开发经验
+* 了解MySQL、MongoDB
 * 了解Linux服务器配置，完成 Nginx 的配置
 * 能正常阅读英文文档，学习Coursera英文教程，科学上网，+1s
 
@@ -35,8 +35,8 @@
 `（Vue2.x/Element-Ui/less/webpack/git）`
 * 2017 ~ 2017 青岛百姓筹网络科技有限公司   独立开发与重构百姓筹微信、PC页面，开发百姓筹保险商城页面 
 `(jQuery/AmazeUi/原生js/less/gulp/svn)`
-* 2017 ~ 至今  浙江善红信息技术有限公司   开发善红云金融SaaS服务平台管理后台，开发善红云智慧订单系统
-`(Vue.js/Egg.js/Mysql/Quasar/webpack/git)`
+* 2017 ~ 至今  浙江善红信息技术有限公司   开发善红云金融SaaS服务平台管理后台，开发善红云智慧订单系统，智慧菜场系统
+`(Vue2.x/Egg.js/MySQL/Quasar/iView/ECharts/webpack/git)`
 
 # 个人作品
 
