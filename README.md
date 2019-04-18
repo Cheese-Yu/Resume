@@ -1,12 +1,12 @@
 # 个人简历
 于海洋的个人简历
 
+**学历**：南京林业大学 本科  
 **性别**：女  
 **籍贯**：山东临沂  
 **Blog**：[http://blog.csdn.net/yhyclelo](http://blog.csdn.net/yhyclelo)
 
 # 技能
-责任心重，喜欢思考，乐于学习新技术
 #### HTML/CSS
 * 能够编写语义化的 HTML ，熟悉 CSS 的使用，实现常用的布局与动画
 * 了解 HTML5/CSS3 ，并能熟练使用部分新特性
@@ -90,6 +90,7 @@ pc端为总管理后台，根据账号等级显示or隐藏部分界面，功能�
 * Electron adb安卓群控
 * 一些Tampermonkey脚本
 * Unity3D 看了一圈放弃了
+* 感谢耐心阅读^_^
 
 # 联系方式
 yhyclelo@sina.com
