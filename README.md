@@ -2,7 +2,14 @@
 于海洋 / 上海 / yhyclelo@sian.com / 南京林业大学-环境科学
 
 ## 技术栈
-JavaScript | Node.js | Vue全家桶 | Weex | 小程序
+* 熟悉语义化的 HTML 的编写，熟悉 Less 高效编写 CSS
+* 熟悉 JavaScript，掌握 ES6 以上常用语法
+* 熟悉 Vue、Vuex
+* 熟练使用Egg.js 编写服务端应用
+* 了解小程序、公众号网页、Weex开发
+* 使用 Webpack、Gulp 等进行前端构建
+* 了解 Photoshop、Sketch 等设计工具
+* 
   
 ## 个人经历
 * **2013 ~ 2017 南京林业大学** 本科 环境科学
