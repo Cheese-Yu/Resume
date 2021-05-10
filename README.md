@@ -1,5 +1,5 @@
 # 于海洋-前端开发-四年经验
-于海洋 / 上海 / yhyclelo@sian.com / 南京林业大学-环境科学
+于海洋 / 上海 / yhyclelo@sina.com / 南京林业大学-环境科学
 
 ## 技术栈
 * 熟悉语义化的 HTML 的编写，熟悉 Less 高效编写 CSS
